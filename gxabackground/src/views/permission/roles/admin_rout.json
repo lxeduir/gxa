@@ -1,0 +1,100 @@
+{
+  "RECORDS": [
+    {
+      "rout_id": "11",
+      "name": "Personal",
+      "title": "个人服务",
+      "path": "/personal"
+    },
+    {
+      "rout_id": "12",
+      "name": "Company",
+      "title": "法人服务",
+      "path": "/company"
+    },
+    {
+      "rout_id": "13",
+      "name": "Permission",
+      "title": "权限管理",
+      "path": "/permission"
+    },
+    {
+      "rout_id": "14",
+      "name": "Editer",
+      "title": "公告发布",
+      "path": "/edit"
+    },
+    {
+      "rout_id": "15",
+      "name": "Children",
+      "title": "出生收养",
+      "path": "/children"
+    },
+    {
+      "rout_id": "16",
+      "name": "Hospital",
+      "title": "社保就医",
+      "path": "/hospital"
+    },
+    {
+      "rout_id": "17",
+      "name": "School",
+      "title": "学习教育",
+      "path": "/school"
+    },
+    {
+      "rout_id": "18",
+      "name": "Work",
+      "title": "就业创业",
+      "path": "/work"
+    },
+    {
+      "rout_id": "19",
+      "name": "Zhiye",
+      "title": "职业资格",
+      "path": "/zhiye"
+    },
+    {
+      "rout_id": "20",
+      "name": "Shuishou",
+      "title": "缴费纳税",
+      "path": "/shuishou"
+    },
+    {
+      "rout_id": "21",
+      "name": "Touzi",
+      "title": "投资立项",
+      "path": "/touzi"
+    },
+    {
+      "rout_id": "22",
+      "name": "Zhaopin",
+      "title": "用工招聘",
+      "path": "/zhaopin"
+    },
+    {
+      "rout_id": "23",
+      "name": "Zizhi",
+      "title": "资质申请",
+      "path": "/zizhi"
+    },
+    {
+      "rout_id": "24",
+      "name": "Notice",
+      "title": "管理通告",
+      "path": "/write"
+    },
+    {
+      "rout_id": "25",
+      "name": "Roles",
+      "title": "角色管理",
+      "path": "/roles"
+    },
+    {
+      "rout_id": "26",
+      "name": "User",
+      "title": "用户管理",
+      "path": "/user"
+    }
+  ]
+}

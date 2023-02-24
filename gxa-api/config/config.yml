@@ -1,0 +1,30 @@
+
+server:
+  SSL: false
+  port: 8000
+  host: 127.0.0.1:8000
+mysql:
+  id: user:liuxun@(123.249.92.218:3306)/user?charset=utf8mb4&parseTime=True&loc=Local
+#  id: root:uIK[xtRpumjtn0+]3@(43.142.239.28:13306)/warmstill?charset=utf8mb4&parseTime=True&loc=Local
+  username: users
+  password: liuxun
+  ipaddress: 101.43.6.142
+  port: 3306
+  MAX_OPEN_CONS: 100
+  MAX_IDLE_CONS: 20
+  MAX_LIFETIME: 100
+jwt:
+  key: api.edulx.xyz
+  timeout: 3600
+redis:
+  host: 123.249.92.218
+  port: 6379
+  password: 123456
+  user_db: 1
+  admin_db: 0
+
+
+
+
+
+
